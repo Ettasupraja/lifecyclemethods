@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: Muthulakshmi D
-Registeration Number : 212223040122
+Developed by: ETTA SUPRAJA
+Registeration Number : 212223220022
 */
 ```
 activity_main.xml
